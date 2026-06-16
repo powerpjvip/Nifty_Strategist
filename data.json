@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:00:39Z",
+  "updated": "2026-06-16T03:43:35Z",
   "data": {
     "sp": {
       "price": 7554.29,
@@ -17,33 +17,33 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 94.7,
-      "chgPct": -0.42,
+      "price": 94.53,
+      "chgPct": -0.18,
       "src": "GHA"
     },
     "crude": {
-      "price": 81.43,
-      "chgPct": 1.11,
+      "price": 80.68,
+      "chgPct": 0.17,
       "src": "GHA"
     },
     "gold": {
-      "price": 4332.0,
-      "chgPct": -0.32,
+      "price": 4345.6,
+      "chgPct": -0.0,
       "src": "GHA"
     },
     "silver": {
-      "price": 69.96,
-      "chgPct": -0.66,
+      "price": 69.8,
+      "chgPct": -0.88,
       "src": "GHA"
     },
     "n50": {
-      "price": 23853.9,
-      "chgPct": 0.94,
+      "price": 23923.9,
+      "chgPct": 1.24,
       "src": "GHA"
     },
     "bn": {
-      "price": 57198.8,
-      "chgPct": 0.69,
+      "price": 57320.1,
+      "chgPct": 0.91,
       "src": "GHA"
     },
     "sx": {
@@ -52,13 +52,13 @@
       "src": "GHA"
     },
     "fn": {
-      "price": 26274.8,
-      "chgPct": 1.27,
+      "price": 26325.65,
+      "chgPct": 1.47,
       "src": "GHA"
     },
     "vix": {
       "price": 14.35,
-      "chgPct": -3.04,
+      "chgPct": -3.06,
       "src": "GHA"
     },
     "t_RELIANCE": {
