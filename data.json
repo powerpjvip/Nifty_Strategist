@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:16:22Z",
+  "updated": "2026-08-16T23:15:24Z",
   "data": {
     "sp": {
       "price": 7785.76,
@@ -27,13 +27,13 @@
       "src": "GHA"
     },
     "gold": {
-      "price": 4437.3,
-      "chgPct": 0.0,
+      "price": 4437.9,
+      "chgPct": 0.01,
       "src": "GHA"
     },
     "silver": {
-      "price": 65.11,
-      "chgPct": 0.0,
+      "price": 65.33,
+      "chgPct": 0.34,
       "src": "GHA"
     },
     "n50": {
