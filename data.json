@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T02:54:31Z",
+  "updated": "2026-08-25T03:44:32Z",
   "data": {
     "sp": {
       "price": 7652.86,
@@ -12,38 +12,38 @@
       "src": "GHA"
     },
     "dji": {
-      "price": 53417.16,
+      "price": 53417.2,
       "chgPct": 0.26,
       "src": "GHA"
     },
     "inr": {
-      "price": 95.74,
-      "chgPct": 0.0,
+      "price": 95.73,
+      "chgPct": -0.01,
       "src": "GHA"
     },
     "crude": {
-      "price": 85.63,
-      "chgPct": 0.0,
+      "price": 85.37,
+      "chgPct": -0.3,
       "src": "GHA"
     },
     "gold": {
-      "price": 4695.4,
-      "chgPct": -0.06,
+      "price": 4696.0,
+      "chgPct": -0.05,
       "src": "GHA"
     },
     "silver": {
-      "price": 67.86,
-      "chgPct": -1.6,
+      "price": 68.01,
+      "chgPct": -1.38,
       "src": "GHA"
     },
     "n50": {
-      "price": 24219.05,
-      "chgPct": -0.14,
+      "price": 24175.75,
+      "chgPct": -0.31,
       "src": "GHA"
     },
     "bn": {
-      "price": 57525.95,
-      "chgPct": -0.41,
+      "price": 57360.65,
+      "chgPct": -0.69,
       "src": "GHA"
     },
     "sx": {
@@ -52,8 +52,8 @@
       "src": "GHA"
     },
     "fn": {
-      "price": 26158.5,
-      "chgPct": -0.39,
+      "price": 26092.0,
+      "chgPct": -0.64,
       "src": "GHA"
     },
     "vix": {
