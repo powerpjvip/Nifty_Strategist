@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:52:35Z",
+  "updated": "2026-10-31T01:58:08Z",
   "data": {
     "sp": {
       "price": 7580.07,
@@ -17,8 +17,8 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 94.94,
-      "chgPct": -0.28,
+      "price": 95.15,
+      "chgPct": -0.06,
       "src": "GHA"
     },
     "crude": {
@@ -58,7 +58,7 @@
     },
     "vix": {
       "price": 15.3,
-      "chgPct": 1.19,
+      "chgPct": 1.17,
       "src": "GHA"
     },
     "t_RELIANCE": {
